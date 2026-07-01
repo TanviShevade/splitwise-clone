@@ -1,0 +1,65 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.navbar {
+  background: #5bc5a7;
+  padding: 10px 20px;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+}
+
+.container {
+  display: flex;
+}
+
+.sidebar {
+  width: 220px;
+  background: #f4f4f4;
+  padding: 15px;
+}
+
+.sidebar button {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 10px;
+  cursor: pointer;
+}
+
+.content {
+  padding: 20px;
+  flex: 1;
+}
+
+.center {
+  text-align: center;
+}
+
+.card {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-top: 10px;
+}
+
+.balance {
+  color: green;
+}
+
+input, select {
+  width: 300px;
+  padding: 8px;
+  margin-bottom: 10px;
+}
+
+button {
+  padding: 8px 15px;
+}
+
+.orange {
+  background: orange;
+  color: white;
+  border: none;
+  margin: 5px;
+}

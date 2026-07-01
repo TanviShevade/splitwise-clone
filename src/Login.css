@@ -1,0 +1,44 @@
+/* Full page background */
+body {
+  background: linear-gradient(135deg, #e8f5e9, #ffffff);
+}
+
+/* Login card */
+form {
+  background-color: #ffffff;
+  padding: 30px 25px;
+  border-radius: 12px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+}
+
+/* Heading */
+form h3 {
+  font-weight: 600;
+  color: #2e7d32;
+}
+
+/* Labels */
+form label {
+  font-weight: 500;
+  color: #444;
+}
+
+/* Inputs */
+form input {
+  border-radius: 8px;
+  padding: 10px;
+}
+
+/* Button */
+form button {
+  border-radius: 8px;
+  padding: 10px;
+  font-weight: 600;
+  font-size: 16px;
+}
+
+/* Button hover */
+form button:hover {
+  background-color: #2e7d32;
+  border-color: #2e7d32;
+}
