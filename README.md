@@ -200,77 +200,67 @@ http://localhost:5173
 
 ---
 
-# 📸 Application Screenshots
+# 📸 Project Screenshots
 
-## User Registration
-
-![Signup](screenshots/SignUp.jpg)
-
----
-
-## User Login
-
-![Login](screenshots/Login.jpg)
+### 📝 Sign Up
+![Sign Up](src/Screenshots/SignUp.jpg)
 
 ---
 
-## Dashboard
-
-![Dashboard](screenshots/Dashboard.jpg)
-
----
-
-## Create Group
-
-![Create Group](screenshots/AddGroup.jpg)
+### 🔑 Login
+![Login](src/Screenshots/Login.jpg)
 
 ---
 
-## Group Created Successfully
-
-![Group Created](screenshots/GropCreatedPage.jpg)
-
----
-
-## Add Expense
-
-![Add Expense](screenshots/AddExpense.jpg)
+### 📊 Dashboard
+![Dashboard](src/Screenshots/Dashboard.jpg)
 
 ---
 
-## Add an Expense
-
-![Add an Expense](screenshots/AddAnExpense.jpg)
-
----
-
-## Group Balances
-
-![Group Balances](screenshots/GroupBalances.jpg)
+### 👥 Add Group
+![Add Group](src/Screenshots/AddGroup.jpg)
 
 ---
 
-## Settle Up
-
-![Settle Up](screenshots/SettleUp.jpg)
-
----
-
-## Admin Login
-
-![Admin Login](screenshots/AdminLogin.jpg)
+### ✅ Group Created
+![Group Created](src/Screenshots/GropCreatedPage.jpg)
 
 ---
 
-## Manage Users
-
-![Manage Users](screenshots/ManageUsers.jpg)
+### 👨‍👩‍👧‍👦 Manage Groups
+![Manage Groups](src/Screenshots/ManageGroups.jpg)
 
 ---
 
-## Manage Groups
+### 💰 Add Expense
+![Add Expense](src/Screenshots/AddExpense.jpg)
 
-![Manage Groups](screenshots/ManageGroups.jpg)
+---
+
+### ➕ Add an Expense
+![Add an Expense](src/Screenshots/AddAnExpense.jpg)
+
+---
+
+### ⚖️ Group Balances
+![Group Balances](src/Screenshots/GroupBalances.jpg)
+
+---
+
+### 🤝 Settle Up
+![Settle Up](src/Screenshots/SettleUp.jpg)
+
+---
+
+## 👨‍💼 Admin Panel
+
+### 🔐 Admin Login
+![Admin Login](src/Screenshots/AdminLogin.jpg)
+
+---
+
+### 👥 Manage Users
+![Manage Users](src/Screenshots/ManageUsers.jpg)
 
 ---
 
